@@ -1,0 +1,9 @@
+# Ignore environment variables file
+.env
+
+# Ignore virtual environment directory
+venv/
+env/
+
+# Ignore database files
+db.sqlite3
